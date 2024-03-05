@@ -1,7 +1,6 @@
 {
-	"name": "@cojourney/site",
+	"name": "cojourney-site",
 	"version": "0.0.1",
-	"private": true,
 	"scripts": {
 		"dev": "next dev --port 3001",
 		"build": "next build",
